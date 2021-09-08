@@ -1,0 +1,7 @@
+C:\Users\Maciej\source\repos\SomeGamePossibly\SomeGamePossibly\bin\Debug\SomeGamePossibly.exe.config
+C:\Users\Maciej\source\repos\SomeGamePossibly\SomeGamePossibly\bin\Debug\SomeGamePossibly.exe
+C:\Users\Maciej\source\repos\SomeGamePossibly\SomeGamePossibly\bin\Debug\SomeGamePossibly.pdb
+C:\Users\Maciej\source\repos\SomeGamePossibly\SomeGamePossibly\obj\Debug\SomeGamePossibly.csprojAssemblyReference.cache
+C:\Users\Maciej\source\repos\SomeGamePossibly\SomeGamePossibly\obj\Debug\SomeGamePossibly.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\SomeGamePossibly\SomeGamePossibly\obj\Debug\SomeGamePossibly.exe
+C:\Users\Maciej\source\repos\SomeGamePossibly\SomeGamePossibly\obj\Debug\SomeGamePossibly.pdb
